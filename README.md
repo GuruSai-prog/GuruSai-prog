@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LangChain, n8n, llamaIndex, DsPy**
 
-- 👨‍💻 All of my projects are available at [https://gurusai123.github.io/portfolio/](https://gurusai123.github.io/portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://gurusai123.github.io/portfolio/](https://gurusai123.github.io/portfolio/)-->
 
 - 📫 How to reach me **cgurusai21@gmail.com**
 
