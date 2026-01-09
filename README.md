@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusai-prog&label=Profile%20views&color=0e75b6&style=flat" alt="gurusai-prog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusai-prog" alt="gurusai-prog" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusai-prog" alt="gurusai-prog" /></a> </p> -->
 
 - 🌱 I’m currently learning **LangChain, n8n, llamaIndex, DsPy**
 
-<!-- - 👨‍💻 All of my projects are available at [https://gurusai123.github.io/portfolio/](https://gurusai123.github.io/portfolio/)-->
+ - 👨‍💻 All of my projects are available at [https://gurusai123.github.io/portfolio/](https://gurusai123.github.io/portfolio/)
 
 - 📫 How to reach me **cgurusai21@gmail.com**
 
