@@ -5,11 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusai-prog" alt="gurusai-prog" /></a> </p> -->
 
-- 🌱 I’m currently learning **LangChain, n8n, llamaIndex, DsPy**
 
- - # Guru Sai Chilukuri
-
-Software engineer focused on distributed systems, large-scale web applications, and applied machine learning. I build across the full stack — Java/Spring Boot backends, React/TypeScript frontends, event-driven pipelines on AWS — and apply ML and generative AI to real problems.
+Software engineer focused on distributed systems, large-scale web applications, and applied machine learning. I build across the full stack Java/Spring Boot backends, React/TypeScript frontends, event-driven pipelines on AWS and apply ML and generative AI to real problems.
 
 **Currently:** MS Computer Science (ML specialization) @ UCF · GPA 3.8
 **Experience:** 3+ years · Cognizant (client: BCBSMA) · Java · Spring Boot · React · TypeScript · AWS · Kafka · Redis · PostgreSQL
