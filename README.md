@@ -7,7 +7,26 @@
 
 - 🌱 I’m currently learning **LangChain, n8n, llamaIndex, DsPy**
 
- - 👨‍💻 All of my projects are available at [https://gurusai123.github.io/portfolio/](https://gurusai123.github.io/portfolio/)
+ - # Guru Sai Chilukuri
+
+Software engineer focused on distributed systems, large-scale web applications, and applied machine learning. I build across the full stack — Java/Spring Boot backends, React/TypeScript frontends, event-driven pipelines on AWS — and apply ML and generative AI to real problems.
+
+**Currently:** MS Computer Science (ML specialization) @ UCF · GPA 3.8
+**Experience:** 3+ years · Cognizant (client: BCBSMA) · Java · Spring Boot · React · TypeScript · AWS · Kafka · Redis · PostgreSQL
+**Interests:** NLP · Generative AI · RAG pipelines · Distributed systems · LLM fine-tuning
+
+---
+
+### Featured projects
+
+- **NL2SQL** — Text-to-SQL pipeline using T5, RAG-based schema linking (LangChain + FAISS), and ONNX inference. ~78% execution accuracy on Spider dataset.
+- **Virtual Medical Assistant** — RAG workflow over MedQuAD (47K+ Q&A pairs) using Llama 3 7B, FAISS embeddings, and MongoDB. Grounded LLM responses with retrieved medical context.
+- **Adversarial Attacks** — Study of adversarial robustness in computer vision models.
+- **Classified Portal** — Full-stack Java application for internal employee data management.
+
+---
+
+📫 cgurusai21@gmail.com · [LinkedIn](https://linkedin.com/in/gurusai)
 
 - 📫 How to reach me **cgurusai21@gmail.com**
 
